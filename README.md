@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on 100 Python projects in 100 days
+- 📫 How to reach me: calhounjamespaul@gmail.com
+- 😄 Pronouns: they/he/she
+- 
 <!--
 **calhounjames/calhounjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

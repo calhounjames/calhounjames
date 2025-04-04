@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is James. I know a lot about Google Workspace and am beginning to advance my knowledge into other data science domains. My current loves are Python and identifying spring flowers.
+I've done a lot of work in Google Workspace, specifically GAS, and am beginning to advance my knowledge into other data science domains. My current loves are Python and identifying spring flowers.
 - 🔭 I’m currently working on 100 Python projects in 100 days
 - 📫 How to reach me: calhounjamespaul@gmail.com
 - 😄 Pronouns: they/he/she

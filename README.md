@@ -1,4 +1,8 @@
 ## Hi there 👋
+I've done a lot of work in Google Workspace, specifically GAS, and I am taking further steps to become a developer. My current love is identifying spring flowers.
+- 🔭 I’m currently working on using Git, HTML, CSS, and JavaScript.
+- 📫 How to reach me: calhounjamespaul@gmail.com
+- 😄 Pronouns: they/he/she
 
 <!--
 **calhounjames/calhounjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

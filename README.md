@@ -1,7 +1,7 @@
 ## Hi there 👋
 I've done a lot of work in Google Workspace, specifically GAS; just out here developing stuff. My current love is identifying spring flowers.
 - 🔭 I’m currently working on building and hosting this [portfolio](https://calhounjames.github.io/portfolio/) on Github.
-- 🌱 I’m focusing on learning HTML, CSS, and JavaScript.
+- 🌱 I’m focusing on HTML, CSS, and JavaScript right now.
 - 📫 How to reach me: calhounjamespaul@gmail.com
 - 😄 Pronouns: they/he/she
 

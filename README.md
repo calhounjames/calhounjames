@@ -3,7 +3,6 @@ I've done a lot of work in Google Workspace, specifically GAS; just out here dev
 - 🔭 I’m currently working on building and hosting this [portfolio](https://calhounjames.github.io/portfolio/) on Github and other skill building projects for work.
 - 🌱 I’m focusing on Git, Python, HTML, CSS, and JavaScript right now.
 - 📫 How to reach me: calhounjamespaul@gmail.com
-- 😄 Pronouns: they/he/she
 
 <!--
 **calhounjames/calhounjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
